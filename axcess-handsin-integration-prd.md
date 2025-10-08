@@ -42,27 +42,7 @@ This document outlines the technical and business requirements for integrating A
 
 **Secondary Objectives:**
 1. Provide seamless merchant onboarding experience
-2. Ensure compliance with PCI DSS and payment industry standards
-3. Enable real-time payment status updates and reconciliation
-4. Support both sandbox and production environments
-
-### Success Metrics
-
-**Technical KPIs:**
-- Payment processing latency: < 2 seconds (95th percentile)
-- API success rate: > 99.5%
-- Webhook delivery success: > 99%
-- System uptime: > 99.9%
-- Event filtering accuracy: 100% (no double-processing incidents)
-- Split payment reconciliation accuracy: 100%
-
-**Business KPIs:**
-- Integration completion timeline: 8-12 weeks
-- Merchant satisfaction score: > 4.5/5
-- Payment success rate: > 95%
-- Support ticket volume: < 5% of transactions
-- Revenue reconciliation variance: < 0.1%
-
+2. Enable real-time payment status updates and reconciliation
 ---
 
 ## Technical Requirements
