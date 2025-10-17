@@ -11,7 +11,7 @@ sequenceDiagram
     autonumber
     actor User
     participant Merchant UI
-    box blue Amadeus Internal
+    box rgba(0, 0, 255, .1) Amadeus Internal
         participant Outpayce XPP
         participant PNR
     end
